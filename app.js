@@ -1,8 +1,11 @@
-let first = document.getElementById("first");
+function test() {
+  let first = document.getElementById("first");
 
-console.log(first);
+  console.log(first);
 
-first.textContent = "dlsfjdlfsj;";
+  first.textContent = "dlsfjdlfsj;";
+}
+test();
 
 let data = [1, 2, 3];
 
