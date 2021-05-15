@@ -8,5 +8,3 @@ function test() {
 test();
 
 let data = [1, 2, 3];
-
-export { data };
